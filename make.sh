@@ -6,7 +6,7 @@
 
 
 # [ Build Package ]
-PACKAGE_NAME="logstash-1.4.0-synology-0014"
+PACKAGE_NAME="logstash-1.4.2-synology-0014"
 WORKSPACE_DIRECTORY="$(pwd)"  # set to same directory that "make.sh" is located in.
 PACKAGE_PATH="$WORKSPACE_DIRECTORY/src"
 
