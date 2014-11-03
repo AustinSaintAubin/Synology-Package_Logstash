@@ -7,4 +7,4 @@ Tested with DSM 5.0 on DS1512+
 
 This Logstash package is designed to work on a Synology NAS ( Requires Java )
 
-![Synology Logstash Package Screenshot](https://raw.githubusercontent.com/AustinSaintAubin/Synology-Package_Logstash/master/screenshots/screenshot_large.png "Logstash package as viewed from Synology Package Manger")
+![Synology Logstash Package Screenshot](https://raw.githubusercontent.com/AustinSaintAubin/Synology-Package_Logstash/master/screenshots/screenshot_large.png)
